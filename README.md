@@ -27,11 +27,11 @@ This visualization depicts the most active hours of the day in August 2019 in de
 ![duration](https://user-images.githubusercontent.com/108758105/202596401-47debb31-675a-486a-9ee2-941ec1e3eb02.png)
 This graph shows that the majority of all trips in August 2019 lasted less than 20 minutes.<br><br>
 
-![weekdayByHour](https://user-images.githubusercontent.com/108758105/202597292-b477df36-97f1-4f03-9b2a-4d1da783be48.png)
-This heatmap highlights the heaviest hours of utilization for each weekday.
+![weekdayByHour](https://user-images.githubusercontent.com/108758105/202597292-b477df36-97f1-4f03-9b2a-4d1da783be48.png)\
+This heatmap highlights the heaviest hours of utilization for each weekday.<br><br>
 
 ![genderDash](https://user-images.githubusercontent.com/108758105/202597639-5a1f59db-2ef6-457f-af55-38383e74e349.png)
-This visualization shows the breakdown of the prior metrics by gender.
+This visualization shows the breakdown of the prior metrics by gender with the blue heatmap further dividing by user type (customer vs subscriber).<br><br>
 
 ## Summary
 
