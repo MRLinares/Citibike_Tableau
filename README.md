@@ -31,7 +31,10 @@ This graph shows that the majority of all trips in August 2019 lasted less than 
 This heatmap highlights the heaviest hours of utilization for each weekday.  The busiest hours during the work week were between 7am-9am and between 4pm and 7pm. For the weekend there seems to be an even distribution of utilization throughout the day between the hours of 9am and 7pm.<br><br>
 
 ![genderDash](https://user-images.githubusercontent.com/108758105/202597639-5a1f59db-2ef6-457f-af55-38383e74e349.png)
-This visualization shows the breakdown of the prior metrics by gender with the blue heatmap further dividing by user type (customer vs subscriber).  There is far greater utilization by indivduals that identify as male in every metric.<br><br>
+This visualization shows the breakdown of the prior metrics by gender.   There is far greater utilization by indivduals that identify as male in every metric.<br><br>
+
+![userTripsByGenderWkday](https://user-images.githubusercontent.com/108758105/202770059-07725719-fc7a-4c59-9060-e11dfbe38359.png)\
+The blue heatmap further divides by user type (customer vs subscriber). It appears that majority of subscribers identify as male and there is fairly even distribution of utilization throughout the week for each respective gender.<br><br>
 
 ![story_maintenance](https://user-images.githubusercontent.com/108758105/202599093-1d5182b3-df19-44fa-8fbc-b25c1037697f.png)
 Finally, this visualization shows the utilization of each bicycle in such a way that it makes it easy to plan for preventitive maintenance and/or repairs.  The overall screenshot including, text boxes above, is an example of how a Tableau Story would look on the website if one were to navigate to the link at the beginning of this "Results" section. 
