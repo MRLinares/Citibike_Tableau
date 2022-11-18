@@ -28,7 +28,7 @@ This visualization depicts the most active hours of the day in August 2019 in de
 This graph shows that the majority of all trips in August 2019 lasted less than 20 minutes.<br><br>
 
 ![weekdayByHour](https://user-images.githubusercontent.com/108758105/202597292-b477df36-97f1-4f03-9b2a-4d1da783be48.png)\
-This heatmap highlights the heaviest hours of utilization for each weekday.  The busiest hours during the work week were between 7am-9am and between 4pm and 7pm. For the weekend there seems to be an even distribution of utilization throughout the day between the hours of 9am and 7pm.<br><br>
+This heatmap highlights the heaviest hours of utilization for each weekday.  The busiest hours during the work week were between 7am-9am and between 4pm and 7pm. For the weekend there seems to be an even distribution of utilization throughout the day between the hours of 9am and 7pm. It further emphasizes that 5pm-6pm and 8am are the highest hours of utilization given their dark red hue in comparison to the yellows and oranges throughout the rest of the map.<br><br>
 
 ![genderDash](https://user-images.githubusercontent.com/108758105/202597639-5a1f59db-2ef6-457f-af55-38383e74e349.png)
 This visualization shows the breakdown of the prior metrics by gender.   There is far greater utilization by indivduals that identify as male in every metric.<br><br>
