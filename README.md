@@ -38,5 +38,16 @@ Finally, this visualization shows the utilization of each bicycle in such a way 
 
 ## Summary
 
+The month of August, 2019, yielded:
+
+* Total of 2,344,224 rides
+* 1,900,359 subscriber vs. 443,865 non-subscriber
+* Top Location: Mid-Town Manhattan (Intersection of Park and 42nd) with 16,564 trip starts and 16,455 drop-offs.
+* Peak Utilizaion hours for August: <br> 
+&emsp; • 5pm - 224,566 total rides <br>
+&emsp; • 6pm - 215,783 total rides <br>
+&emsp; • 8am - 170,730 total rides <br>
+* Rides under 20 minutes account for 1,815,032 (77.4%) of total rides
+* Rides under 30 minutes account for 2,140,447 (91.3%) of total rides
 
 Another analysis I would run would be the distances traveled. While duration could help understand how long someone had the bike, it doesn't show how far someone rode. 
