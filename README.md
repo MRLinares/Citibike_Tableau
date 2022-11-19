@@ -44,27 +44,30 @@ Finally, this visualization shows the utilization of each bicycle in such a way 
 The month of August, 2019, yielded:
 
 * Total of 2,344,224 rides
-* 1,900,359 subscriber vs. 443,865 non-subscriber
-* Top Location: Mid-Town Manhattan (Intersection of Park and 42nd) with 16,564 trip starts and 16,455 drop-offs.
+* 1,900,359 (***81.1%***) subscriber vs. 443,865 (***18.9%***) non-subscriber
+* Top Location: Grand Central Terminal (Mid-Town Manhattan) with 16,564 trip starts and 16,455 drop-offs.
 * Peak Utilizaion hours for August: <br> 
-&emsp; • 5pm - 224,566 total rides <br>
-&emsp; • 6pm - 215,783 total rides <br>
-&emsp; • 8am - 170,730 total rides <br>
-* Rides up to 20 minutes account for 1,815,032 (77.4%) of total rides
-* Rides up to 30 minutes account for 2,140,447 (91.3%) of total rides
+&emsp; • 5pm - 224,566 total rides (***9.6%***) <br>
+&emsp; • 6pm - 215,783 total rides (***9.2%***) <br>
+&emsp; • 8am - 170,730 total rides (***7.3%***) <br>
+* Rides up to 20 minutes account for 1,815,032 (***77.4%***) of total rides
+* Rides up to 30 minutes account for 2,140,447 (***91.3%***) of total rides
 * Gender breakdown: <br>
 &emsp; • Out of total rides: <br> 
-&emsp;&emsp;&emsp; • 1,530,272 (65.3%) reported as Male <br>
-&emsp;&emsp;&emsp; • 588,431 (25%) reported as Female <br>
-&emsp;&emsp;&emsp; • 225,521 (9.6%) Gender not reported <br>
-&emsp; • Of the total rides up to 30 minutes (which accounted for 91.3% of total rides) 1,426,693 reported as Male (61%)<br>
-&emsp; • 1,249,092 (53%) reported as Male for rides up to 20 minutes. <br>
+&emsp;&emsp;&emsp; • 1,530,272 (***65.3%***) reported as Male <br>
+&emsp;&emsp;&emsp; • 588,431 (***25%***) reported as Female <br>
+&emsp;&emsp;&emsp; • 225,521 (***9.6%***) Gender not reported <br>
+&emsp; • Of the total rides up to 30 minutes (which accounted for 91.3% of total rides) 1,426,693 reported as Male (***61%***)<br>
+&emsp; • 1,249,092 (***53%***) reported as Male for rides up to 20 minutes. <br>
 &emsp; • Subscriber: <br>
-&emsp;&emsp;&emsp; • Male: 1,372,601 (58.6%) <br>
-&emsp;&emsp;&emsp; • Female: 493,752 (21%) <br>
-&emsp;&emsp;&emsp; • Not Reported: 34,006 (1.5%) <br>
+&emsp;&emsp;&emsp; • Male: 1,372,601 (***58.6%***) <br>
+&emsp;&emsp;&emsp; • Female: 493,752 (***21%***) <br>
+&emsp;&emsp;&emsp; • Not Reported: 34,006 (***1.5%***) <br>
 &emsp; • Non-Subscriber  <br>
-&emsp;&emsp;&emsp; • Male: 157,671 (6.7%) <br>
-&emsp;&emsp;&emsp; • Female: 94,679 (4%) <br>
-&emsp;&emsp;&emsp; • Not Reported: 191,515 (8.2%) <br>
+&emsp;&emsp;&emsp; • Male: 157,671 (***6.7%***) <br>
+&emsp;&emsp;&emsp; • Female: 94,679 (***4%***) <br>
+&emsp;&emsp;&emsp; • Not Reported: 191,515 (***8.2%***) <br>
+
+&emsp;&emsp; Given that the highest starting and ending location is the Grand Central Terminal and that most ustilization occurs during the morning and evening work commute, it is safe to assume that most rides occur for the purpose of commuting to work.  The New York Water Taxi location at the Lincoln Tunnel accounts for 13,435 starts and 14,018 drop-offs.  The Battery Park City/Vesey St. Ferry station accounts for 13,875 starts and 14,730 drop-offs.  It appears that people travelling to the city from non-NYC Subway routes (e.g. MTA North, LIRR, Water Taxi/Ferry) prefer to ride a bicycle from their stop to work as an alternative to transferring to NYC Subway/MTA Bus. 
+
 Another analysis I would run would be the distances traveled. While duration could help understand how long someone had the bike, it doesn't show how far someone rode. 
