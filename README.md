@@ -50,12 +50,21 @@ The month of August, 2019, yielded:
 &emsp; • 5pm - 224,566 total rides <br>
 &emsp; • 6pm - 215,783 total rides <br>
 &emsp; • 8am - 170,730 total rides <br>
-* Rides under 20 minutes account for 1,815,032 (77.4%) of total rides
-* Rides under 30 minutes account for 2,140,447 (91.3%) of total rides
+* Rides up to 20 minutes account for 1,815,032 (77.4%) of total rides
+* Rides up to 30 minutes account for 2,140,447 (91.3%) of total rides
 * Gender breakdown: <br>
 &emsp; • Out of total rides: <br> 
-&emsp;&emsp;&emsp; • 1,530,272 identify as Male <br>
-&emsp;&emsp;&emsp; • 588,431 identify as Female <br>
-&emsp;&emsp;&emsp; • 225,521 Gender not specified <br>
-
+&emsp;&emsp;&emsp; • 1,530,272 (65.3%) reported as Male <br>
+&emsp;&emsp;&emsp; • 588,431 (25%) reported as Female <br>
+&emsp;&emsp;&emsp; • 225,521 (9.6%) Gender not reported <br>
+&emsp; • Of the total rides up to 30 minutes (which accounted for 91.3% of total rides) 1,426,693 reported as Male (61%)<br>
+&emsp; • 1,249,092 (53%) reported as Male for rides up to 20 minutes. <br>
+&emsp; • Subscriber: <br>
+&emsp;&emsp;&emsp; • Male: 1,372,601 (58.6%) <br>
+&emsp;&emsp;&emsp; • Female: 493,752 (21%) <br>
+&emsp;&emsp;&emsp; • Not Reported: 34,006 (1.5%) <br>
+&emsp; • Non-Subscriber  <br>
+&emsp;&emsp;&emsp; • Male: 157,671 (6.7%) <br>
+&emsp;&emsp;&emsp; • Female: 94,679 (4%) <br>
+&emsp;&emsp;&emsp; • Not Reported: 191,515 (8.2%) <br>
 Another analysis I would run would be the distances traveled. While duration could help understand how long someone had the bike, it doesn't show how far someone rode. 
