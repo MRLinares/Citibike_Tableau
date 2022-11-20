@@ -43,7 +43,7 @@ The month of August, 2019, yielded:
 * 1,493 (***10.7%*** of total units) of those bikes have over 300 uses, each. <br>
 * 541 units (***3.9%*** of total units) have over 100 hours of use, each. <br>
 
-Below are snapshots of the Tableau workbook that I created while performing analysis on the 201908-citibike-tripdata.csv file I downloaded from the NYC Citibike website.  I had to transform the tripduration column into datetime type from an object type in order to perform accurate analyses on it so I used jupyter notebooks and pandas to perform that transformation. Access to the actual Tableau Public workbook page by clicking the link here: [Citibike Tableau Story](https://public.tableau.com/app/profile/manny.linares/viz/Module_14_16666441765060/CitibikeStory) <br>
+Below are snapshots of the Tableau workbook. Access to the actual Tableau Public workbook page by clicking the link here: [Citibike Tableau Story](https://public.tableau.com/app/profile/manny.linares/viz/Module_14_16666441765060/CitibikeStory) <br>
 
 ![NYC_Citibike_Analysis_dash](https://user-images.githubusercontent.com/108758105/202524519-581e04e9-cfbb-41cb-ac39-1c218cade5af.png)
 The image above shows the overall ride count for the month of August 2019, a pie chart showing the breakdown of users by customer and subscriber, and a heat map showing the most active start/end destinations for Citibike users (which can be zoomed in and out for viewer comprehension).<br><br>
