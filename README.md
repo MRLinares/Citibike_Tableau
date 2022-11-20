@@ -37,7 +37,7 @@ This visualization shows the breakdown of the prior metrics by gender.   There i
 The blue heatmap further divides by user type (customer vs subscriber). It appears that majority of subscribers identify as male and there is fairly even distribution of utilization throughout the week for each respective gender.<br><br>
 
 ![story_maintenance](https://user-images.githubusercontent.com/108758105/202599093-1d5182b3-df19-44fa-8fbc-b25c1037697f.png)
-Finally, this visualization shows the utilization of each bicycle in such a way that it makes it easy to plan for preventitive maintenance and/or repairs.  The overall screenshot including, text boxes above, is an example of how a Tableau Story would look on the website if one were to navigate to the link at the beginning of this "Results" section. 
+Finally, this visualization shows the utilization of each bicycle in such a way that it makes it easy to plan for preventitive maintenance and/or repairs. The Bike Utilization Chart (circle) shows the length of time each unit was in use, whereas the Bikes Needing Repair Soon chart shows the amount of times the unit was utilized.  The overall screenshot, including text boxes above, is an example of how a Tableau Story would look on the website if one were to navigate to the link at the beginning of this "Results" section. 
 
 ## Summary
 
@@ -67,7 +67,19 @@ The month of August, 2019, yielded:
 &emsp;&emsp;&emsp; • Male: 157,671 (***6.7%***) <br>
 &emsp;&emsp;&emsp; • Female: 94,679 (***4%***) <br>
 &emsp;&emsp;&emsp; • Not Reported: 191,515 (***8.2%***) <br>
+* 13,983 units were used in August 2019
+* 1,493 (***10.7%*** of total units) of those bikes have over 300 uses, each.
+* 541 units (***3.9%*** of total units) have over 100 hours of use, each.
 
 &emsp;&emsp; Given that the highest starting and ending location is the Grand Central Terminal and that most ustilization occurs during the morning and evening work commute, it is safe to assume that most rides occur for the purpose of commuting to work.  The New York Water Taxi location at the Lincoln Tunnel accounts for 13,435 starts and 14,018 drop-offs.  The Battery Park City/Vesey St. Ferry station accounts for 13,875 starts and 14,730 drop-offs.  It appears that people travelling to the city from non-NYC Subway routes (e.g. MTA North, LIRR, Water Taxi/Ferry) prefer to ride a bicycle from their stop to work as an alternative to transferring to NYC Subway/MTA Bus. 
 
-Another analysis I would run would be the distances traveled. While duration could help understand how long someone had the bike, it doesn't show how far someone rode. 
+&emsp;&emsp; It is also evident that the majority of rides were individuals reporting as male (65.3%).  With nearly 10% of riders not reporting, it can be inferred that the majority of them may report as male if it were required prior to riding.
+
+&emsp;&emsp; Given the small percentage of bicycles seeing "high" utilization relative to the total amount of rides for the month of August 2019, bicycle upkeep should be a fairly simple process.  Simply rotate units from "low" use areas to higher use areas, perform preventitive maintenance and return those units repaired to the low utilization areas.  This will allow high use areas to always have fully functioning units.
+
+&emsp;&emsp; After careful review of this analysis, it seems that the NYC Citibike program may not be an appropriate benchmark to guage feasibility in rural Iowa.  As busy as a twon as Des Moines could possibly be, it is not a fair comparison.  Des Moines is roughly 90.7 square miles in comparison to Manhattan's 22.8 (most rides occurred in Midtown and Lower Manhattan, roughly 5 total square miles of land).  The sheer volume of people in those 5 square miles does not scale to even the entire state of Iowa.  If Citibike 's intention was to make an apples to apples comparison, it would have to create a pilot program in another major city with a much smaller population, such as Cleveland, Ohio, or Portland, Oregon where demographic conditions may be more similar.  However, if Citibike insisted on moving forward with the results from the NYC analysis, potentially successful strategies may involve trying to attract male subscribers and placing bike locations in the most urban location, close to high volume foot traffic.
+
+
+One further analysis I would perform would be the distances traveled. While duration could help understand how long someone had the bike, it doesn't show how far someone rode and seeing the scalability of this program to much larger areas would require this type of information.
+
+Another analysis, would be during the school year. It would be interesting to see how this information would change once teachers started work again.
